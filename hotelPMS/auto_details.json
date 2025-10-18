@@ -1,0 +1,40 @@
+[
+    {
+        "Ref": "13232345",
+        "Name": "John Doe",
+        "Mother Name": "dom",
+        "Gender": "Male",
+        "Post": "23123",
+        "Mobile": "2312342453",
+        "Email": "kk@gmail.com",
+        "Nationality": "India",
+        "ID-Proof": "Card",
+        "ID-Number": "22323",
+        "Address": "ufhkjsd",
+        "checkin": "12/11/2025",
+        "checkout": "15/11/2025",
+        "roomtype": "Smoking Rooms",
+        "roomavailable": "2002",
+        "meal": "yes",
+        "noOfDays": "3"
+    },
+    {
+        "Ref": "98765432",
+        "Name": "Alice Johnson",
+        "Mother Name": "Mary Johnson",
+        "Gender": "Female",
+        "Post": "54321",
+        "Mobile": "9876543210",
+        "Email": "alice@example.com",
+        "Nationality": "American",
+        "ID-Proof": "Passport",
+        "ID-Number": "A12345678",
+        "Address": "789 Park Avenue, New York",
+        "checkin": "20/12/2025",
+        "checkout": "25/12/2025",
+        "roomtype": "family rooms",
+        "roomavailable": "101",
+        "meal": "yes",
+        "noOfDays": "5"
+    }
+]
